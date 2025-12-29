@@ -13,7 +13,9 @@ IF([Patient Age] > 10, "10-19",
 "0-09")))))))
 
 ---
+
 ### Patient Attend Status
+```DAX
 Patient Attend Status =
 IF([Wait Time] > 30, "Delayed", "On Time")
 
