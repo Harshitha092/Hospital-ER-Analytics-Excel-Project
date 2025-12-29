@@ -8,7 +8,7 @@ CALCULATE(
     'Hospital Emergency Room Data'[Patient Satisfaction Score] <> BLANK(),
     ALL('Hospital Emergency Room Data')
 )
-
+```
 
 ### Feedback Response Rate
 Feedback Response Rate :=
