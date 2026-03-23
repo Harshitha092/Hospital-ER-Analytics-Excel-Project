@@ -61,10 +61,20 @@ Key fields include Patient ID, Admission Date & Time, Gender, Age, Department Re
 ---
 
 ## 📈 Key Insights
-- ER demand fluctuates significantly by day and department
-- Certain departments consistently experience higher wait times
-- Admission rates vary daily, impacting capacity planning
-- Satisfaction analysis highlights **response bias**, emphasizing the importance of feedback coverage
+
+* **9,216 total patients** recorded across the analysis period 
+  (April 2023 – October 2024)
+* **Average wait time of 35.04 minutes** across all departments
+* **Admission rate of 46.3%** — nearly half of all ER patients 
+  required admission
+* **On-time treatment rate of 42.9%** — indicating significant 
+  room for operational improvement
+* **Overall patient satisfaction score of 5.47** (respondents only) 
+  with only **27.5% feedback response rate** — highlighting 
+  response bias risk in satisfaction reporting
+* **General Practice** is the highest-volume department with 284 
+  patients, followed by Orthopedics (44) and Physiotherapy (15)
+* Female patients represent **51.39%** of total ER visits
 
 ---
 
