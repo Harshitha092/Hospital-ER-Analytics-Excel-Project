@@ -69,7 +69,24 @@ Key fields include Patient ID, Admission Date & Time, Gender, Age, Department Re
 ---
 
 ## 📸 Dashboard Preview
-Screenshots are available in the `/visuals` folder.
+
+### Overview
+![Dashboard Overview](visuals/dashboard_overview.PNG)
+
+### Daily Patient Trends
+![Daily Patient Trends](visuals/daily_patient_trends.PNG)
+
+### Average Wait Time Trend
+![Average Wait Time Trend](visuals/Avg_wait_time_trend.PNG)
+
+### Daily Admission Rate
+![Daily Admission Rate](visuals/Daily%20Admission%20rate.PNG)
+
+### On-Time Treatment Trend
+![On-Time Treatment Trend](visuals/On_Time_treatment_trend.PNG)
+
+### Patient Satisfaction Score
+![Patient Satisfaction Score](visuals/Patient%20satisfaction%20score.PNG)
 
 ---
 
