@@ -105,5 +105,8 @@ This dashboard provides a single, interactive view of ER performance, helping de
 
 ---
 
-## 📬 Contact
-If you’d like to discuss this project or explore opportunities, feel free to connect with me on LinkedIn.
+## 👩‍💻 Author  
+**Harshitha Salian**  
+Analytics Professional | SQL · Power BI · Excel · Python  
+📍 Dubai, UAE | [LinkedIn](https://www.linkedin.com/in/salianharshitha/) | [GitHub](https://github.com/Harshitha092)
+
